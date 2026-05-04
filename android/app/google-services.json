@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526778884159",
+    "project_id": "cristiano-545e7",
+    "storage_bucket": "cristiano-545e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526778884159:android:7761a71b5f938bc335188a",
+        "android_client_info": {
+          "package_name": "com.adam.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFxHGbVstowRxRxVWuQ4LmsaRkUJpOpxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526778884159:android:5b57dd1c23bb293435188a",
+        "android_client_info": {
+          "package_name": "com.adam.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFxHGbVstowRxRxVWuQ4LmsaRkUJpOpxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
